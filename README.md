@@ -1,5 +1,5 @@
 <p>
- <img src="https://www.web-leb.com/assets/img/shoescard.webp
+ <img src="./Captura de Tela (5).png
 " alt="demonstração do projeto" width="100%" />
 </p>
 
