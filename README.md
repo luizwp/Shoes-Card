@@ -1,5 +1,5 @@
 <p>
- <img src="![Captura de Tela (5)](https://github.com/user-attachments/assets/17df091b-c413-4470-87d3-5230c776019a)
+ <img src="https://raw.githubusercontent.com/luizwp/Shoes-Card/main/Captura%20de%20Tela%20(5).png
 " alt="demonstração do projeto" width="100%" />
 </p>
 
