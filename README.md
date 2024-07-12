@@ -1,5 +1,5 @@
 <p>
- <img src="https://raw.githubusercontent.com/luizwp/Shoes-Card/main/Captura%20de%20Tela%20(5).png
+ <img src="https://www.web-leb.com/assets/img/shoescard.webp
 " alt="demonstração do projeto" width="100%" />
 </p>
 
