@@ -1,6 +1,5 @@
 <p>
- <img src="![Captura de Tela (5)](https://github.com/user-attachments/assets/f531cf07-9f63-448e-9b11-d0d540f8e8a4)
-
+ <img src="![Captura de Tela (5)](https://github.com/user-attachments/assets/17df091b-c413-4470-87d3-5230c776019a)
 " alt="demonstração do projeto" width="100%" />
 </p>
 
